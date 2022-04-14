@@ -11,6 +11,8 @@ I'm the creator and co-founder of [DayCaptain](https://daycaptain.com) 🧑‍�
 
 If you're curious to what I'm doing, you can check out my [YouTube channel 📺](https://www.youtube.com/channel/UCG21GE2Go3vkj7mrs675ysA), [Twitter @DaschnerS 🐦](https://twitter.com/DaschnerS), [blog 🗒](https://blog.sebastian-daschner.com), and [podcast 🎙](https://anchor.fm/effective-developer).
 
+If my content on GitHub has helped you, maybe you want to consider becoming a [sponsor](https://github.com/sponsors/sdaschner) 🥰
+
 And if you want to learn how to become more productive as a developer, I highly recommend to check out my [masterclass video series 💯](https://blog.sebastian-daschner.com/entries/developer-productivity-masterclass-early-access), for which you can currently get 50% off until the series is finished.
 
 &nbsp;
