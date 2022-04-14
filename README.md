@@ -13,6 +13,7 @@ If you're curious to what I'm doing, you can check out my [YouTube channel](http
 
 And if you want to learn how to become more productive as a developer, I highly recommend to check out my [masterclass video series](https://blog.sebastian-daschner.com/entries/developer-productivity-masterclass-early-access), for which you can currently get 50% off until the series is finished.
 
+&nbsp;
 
 [![Architecting Modern Java EE Applications](images/javaee_book_cover.png)](https://blog.sebastian-daschner.com/entries/book-modern-java-ee)&#160;&#160;
 [![Developer Productivity Masterclass](images/productivity_course_teaser.png)](https://blog.sebastian-daschner.com/entries/developer-productivity-masterclass-early-access)&#160;&#160;
