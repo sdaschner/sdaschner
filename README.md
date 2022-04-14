@@ -15,6 +15,6 @@ And if you want to learn how to become more productive as a developer, I highly 
 
 &nbsp;
 
-[![Architecting Modern Java EE Applications](images/javaee_book.png)](https://blog.sebastian-daschner.com/entries/book-modern-java-ee)&#160;&#160;
-[![Developer Productivity Masterclass](images/productivity_course.png)](https://blog.sebastian-daschner.com/entries/developer-productivity-masterclass-early-access)&#160;&#160;
+[![Architecting Modern Java EE Applications](images/javaee_book.png)](https://blog.sebastian-daschner.com/entries/book-modern-java-ee)&#160;
+[![Developer Productivity Masterclass](images/productivity_course.png)](https://blog.sebastian-daschner.com/entries/developer-productivity-masterclass-early-access)&#160;
 ![Java Champions](images/javachampions.png)
